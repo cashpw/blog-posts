@@ -1,0 +1,94 @@
+#+title: May 2021 Newsletter
+#+author: cashweaver
+#+layout: post
+
+I have a goal for 2021 to [[local:/goals-for-2021][write, at least a little bit, about what I read]] and I think a monthly newsletter is a [[https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool][fantastic tool for encouraging me]]. This newsletter will include a few items from prior to May 2021 as it's the first time I've had a space to write about them.
+
+* Links
+** [[https://blog.samaltman.com/productivity][Productivity]] by Sam Altman :author_sam_altman:
+
+There is a lot of good advice in here. I especially appreciated the point about avoiding productivity porn. "Chasing productivity for its own sake isn't helpful". I've done that chase before and at best it's a time sink and at worst it's a form of self-deception. As such, I want to be sure to do more than just read the article and then proceed with my life as it was before. I've had more success integrating change gradually and building on small accomplishments as opposed to attempting to overhaul all of my habits at once. I'll try to tackle one piece of advice weekly, of own highlights from the article, and attempt to work it into my life that week.
+
+** [[https://www.lesswrong.com/posts/BHYBdijDcAKQ6e45Z/cached-selves][Cached Selves]] by Anna Salamon
+
+The idea that my actions are so easily influenced is disconcerting to say the least. The author is writing about commitment and consistency effects with the goal of reducing their effectiveness. I think it would be wise to attempt to incorporate a bit of the author's advice into how I conduct myself. The most straight-forward suggestion is to "[t]ake care never to say anything but what is best supported by the evidence, aloud or to yourself, lest you come to believe it". Identifying what is supported by the evidence and which evidence is trust-worthy is another can of worms.
+
+** [[https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic][Humans Are Not Automatically Strategic]] by Anna Salamon
+
+#+begin_quote
+We act from habit; we act from impulse or convenience when primed by the activities in front of us; we remember our goal and choose an action that feels associated with our goal.
+#+end_quote
+
+** [[https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness][Learned Blankness]] by Anna Salamon
+
+#+begin_quote
+Martin Seligman coined the term "learned helplessness" to describe a condition in which someone has learned to behave as though they were helpless. I think we need a term for learned helplessness about thinking (in a particular domain). I’ll call this “learned blankness”. Folks who fall prey to learned blankness may still take actions -- sometimes my students practiced the procedures again and again, hired a tutor, etc. But they do so as though carrying out rituals to an unknown god -- parts of them may be trying, but their “understand X” center has given up.
+#+end_quote
+
+** [[https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/][Attention Is My Most Valuable Asset for Productivity as a Software Developer]] by Zachary Betz
+
+I think the author makes a good point. Perhaps I'm less interested than others would be as I've seen these ideas already expressed by Cal Newport.
+
+** [[https://commoncog.com/blog/what-is-a-career-moat/][What is a Career Moat?]] by Cedric Chin
+
+#+begin_quote
+A career moat is an individual's ability to maintain competitive advantages over your competition (say, in the job market) in order to protect your long term prospects, your employability, and your ability to generate sufficient financial returns to support the life you want to live.
+#+end_quote
+
+** [[https://www.lesswrong.com/posts/4iLk2rxTguFqHHs3Y/the-power-of-pomodoros][The Power of Pomodoros]] by elharo
+
+#+begin_quote
+Pomodoros aren’t (for me) a means of avoiding procrastination or dividing time among projects. They’re a way of blasting through Ugh fields.
+#+end_quote
+
+** [[https://www.flightfromperfection.com/(a).html][(a)]] by Milan Griffes
+
+I like the idea of including an archive link when linking to off-domain content. It seems like something that could be automated through some "presubmit" step of the publishing process. I've looked around but haven't found an addon/extension for any of the popular blogging solutions which provides an easy way to include such links. I expect that I won't bother to include them so long as I would have to include them manually. The URL to the off-domain content will be present and determined readers will be able to consult archive.org/etc on their own to achieve the same result.
+
+I also notice that the author [[https://www.flightfromperfection.com/the-best-explanation-of-modern-monetary-theory.html][includes (sometimes long) relevant quotes from links they cite]], or even a [[https://www.flightfromperfection.com/specific-benefits-of-meditation.html][long quote and nothing else]]. I think this is a fantastic practice which accomplishes most of the goal of "(a)".
+
+** [[https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool][The Monthly Newsletter as a Thinking Tool]] by Matt Freeman
+
+This post.
+
+** [[http://www.aaronsw.com/weblog/theoryofchange][Theory of Change]] by Aaron Swartz
+
+#+begin_quote
+A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
+#+end_quote
+
+** [[https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus][Noticing the Taste of Lotus]] by Valentine
+
+The idea of noticing the taste of lotus is closely related to mindfulness and attention. The importance of, and ways to maintain, focus and attention are a common theme in several other articles recently (at least recent to me and my discovery of them).
+
+The author's follow-up review of their own writing distinguishes a few claims made in the piece:
+
+#+begin_quote
+1. External forces can shape what we want to do. (I.e., there are lotuses.)
+
+2. It's possible to notice this in real time. (I.e., you can notice the taste of lotuses.)
+
+3. It's good to do so. Otherwise we find our wanting aligned with others' goals regardless of how they relate to our own.
+
+4. If you notice this, you'll find yourself wanting to spit out lotuses that you can tell pull you away from your goals.
+#+end_quote
+
+I like this way of breaking a piece of writing apart into claims. Doing so reminds me of breaking a commit down into small, independent, chunks and all the benefits that come with that practice. There's a balancing act between leveraging links to other, single-purpose, writing throughout a piece and writing a monolithic entry which can be taken as is without further context or external references.
+
+As for the claims themselves, I identify with the way the author has phrased claim #3. I find myself at the precipice of rabbit holes regularly with regard to video games. Factorio, for example, is a game that I enjoyed playing so much that I had to cut myself off from it. I would find myself thinking about my factory, and future factories, throughout the day. The optimization problems were enchanting and satisfied a need to accomplish and be productive so well that I dropped a lot of other goals/etc and replaced them, for a time, with Factorio. It's not that Factorio is bad -- it's a fantastic game -- but that I discover, after coming out of the haze of hours and hours of perfecting resource gathering, delivery, and processing, that I've realigned my goals around the game and that those new goals won't take me where I want to go.
+
+** [[https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/][The Three Kinds of Non-Fiction Books]] by Cedric Chin
+
+I'm not sure if all non-fiction books could be adequately categorized by these three labels. Nonetheless, I'm grateful for the vocabulary to describe books I've read that seem like over-stuffed musings on a single idea which would have been better served by a short blog post rather than a book.
+
+** [[https://www.neelnanda.io/blog/29-meaningful-rest][Meaningful Rest]] by Neel Nanda
+
+#+begin_quote
+An exercise: Set a 5 minute timer, and list the things you want to do when you feel tired and low-energy. Then, set another 5 minute timer, and list the things you feel rejuvenated after having done - the things you like doing when low-energy.
+
+If you’re anything like me, these lists are basically disjoint!
+#+end_quote
+
+#+begin_quote
+Most situations in my life have a default response, and that takes no effort to follow. To deviate from the default response, I need to spend a scarce resource - willpower. Being tired is essentially being low on willpower, and the problem is that my default actions when low willpower do not regenerate willpower. (I elaborate far more on this model in [[https://www.neelnanda.io/blog/mini-blog-post-19-on-systems-living-a-life-of-zero-willpower][this post]])
+#+end_quote
