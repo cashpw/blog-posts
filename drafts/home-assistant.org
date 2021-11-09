@@ -1,0 +1,5 @@
+#+TITLE: Home Assistant
+
+Install using https://github.com/balenalabs-incubator/balena-homeassistant
+
+Had to set up TP-link devices manually by entering the host IP address (pulled from the list of devices available through the Google Home Wifi menu).
