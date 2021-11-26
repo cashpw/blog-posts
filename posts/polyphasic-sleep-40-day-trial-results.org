@@ -1,4 +1,8 @@
 #+TITLE: Polyphasic Sleep: 40 Day Trial Results
+#+AUTHOR: Cash Weaver
+#+TAGS: polyphasic-sleep
+#+DATE: 2021-07-11
+#+CATEGORIES: blog
 
 What would you do with another few hours every day? This was the thought that pulled me into attempting a polyphasic sleep schedule.
 
