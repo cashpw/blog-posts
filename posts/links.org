@@ -5,9 +5,9 @@
 #+date: 2021-05-23
 #+update_date: 2021-05-23
 #+options: H:3 num:nil tags:nil toc:nil timestamps:t \n:nil ':nil
+#+categories: blog
 #+startup: showall
 #+startup: hidestars
-#+categories: blog
 
 * Links
 ** 2021

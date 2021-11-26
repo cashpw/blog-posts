@@ -1,8 +1,12 @@
-#+TITLE: The First Lesson
-#+AUTHOR: Cash Weaver
-#+TAGS: dune quote
-#+DATE: 2021-05-30
-#+CATEGORIES: blog
+#+title: The First Lesson
+#+author: Cash Weaver
+#+date: 2021-05-30
+#+tags[]: dune quote
+#+categories: blog
+#+hugo_base_dir: ~/proj/cashweaver.com
+#+hugo_section: posts
+#+hugo_tags: dune quote
+#+hugo_section: posts
 
 #+begin_quote
 Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
